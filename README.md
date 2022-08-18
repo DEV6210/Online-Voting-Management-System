@@ -6,7 +6,7 @@
 
 ![Screenshot (104)](https://user-images.githubusercontent.com/91625966/185202747-3f6d2a93-f17d-4912-9c09-097aaf26851b.png)
 
-#Registration Form Validation
+# Registration Form Validation
 
 ![Screenshot (105)](https://user-images.githubusercontent.com/91625966/185202774-49dbc955-5ab2-461f-8749-e357bc370ab7.png)
 ![Screenshot (106)](https://user-images.githubusercontent.com/91625966/185202792-08ac9f40-0a77-44a1-b436-aab4e8585601.png)
@@ -33,63 +33,63 @@
 ![Screenshot (127)](https://user-images.githubusercontent.com/91625966/185203226-052e7ee0-886c-4546-b2ac-7224440e8cad.png)
 
 
-#Loging Page/window
+# Loging Page/window
 
 ![Screenshot (128)](https://user-images.githubusercontent.com/91625966/185203445-f15d12c2-2705-4148-b5ce-a275a34e0032.png)
 
-#Login Form Validation
+# Login Form Validation
 
 ![Screenshot (129)](https://user-images.githubusercontent.com/91625966/185203461-9ef6a6f8-126c-4d0b-8cf1-b3800ffb255e.png)
 ![Screenshot (130)](https://user-images.githubusercontent.com/91625966/185203480-e172ad4a-0a1f-44d3-bec9-103c10b8fea2.png)
 ![Screenshot (131)](https://user-images.githubusercontent.com/91625966/185203493-8cdd4fd5-4be0-46f7-8b2c-3f7fd26f9fa5.png)
 
 
-#After Login User Profile
+# After Login User Profile
 ![Screenshot (132)](https://user-images.githubusercontent.com/91625966/185203586-03504e28-bb04-4765-a831-d6c428e94428.png)
 
-#After Click Give Vote Button
+# After Click Give Vote Button
 ![Screenshot (134)](https://user-images.githubusercontent.com/91625966/185203901-275fbbf8-fb96-451a-984b-6fe964fd4e5d.png)
 
-#After Click Update Button
+# After Click Update Button
 ![Screenshot (136)](https://user-images.githubusercontent.com/91625966/185203991-3c204e4f-9576-4bea-81f5-d6763f6b376d.png)
 
-#Track Application Option
+# Track Application Option
 ![Screenshot (137)](https://user-images.githubusercontent.com/91625966/185204186-3e527680-9af0-4348-913d-1ce87e7a80a7.png)
 
 
-#Admin Login Interface
+# Admin Login Interface
 ![Screenshot (139)](https://user-images.githubusercontent.com/91625966/185205665-ea141485-be99-4d76-9e09-247ccdf82b81.png)
 
-#After Login Admin
+# After Login Admin
 ![Screenshot (140)](https://user-images.githubusercontent.com/91625966/185205755-2effbcdf-e64f-44bf-9faa-379d15408da2.png)
 
-#Click Generate Card Number Button
+# Click Generate Card Number Button
 ![Screenshot (141)](https://user-images.githubusercontent.com/91625966/185205904-2b0250b9-fd9f-4e39-acc0-76f43f40bfd4.png)
 ![Screenshot (143)](https://user-images.githubusercontent.com/91625966/185206007-bb7d4b80-fdcd-458b-8332-bfda2ae5f962.png)
 ![Screenshot (147)](https://user-images.githubusercontent.com/91625966/185206169-f0cb08df-5809-4226-be54-3919dace2951.png)
 
-#Click Suspend Button
+# Click Suspend Button
 ![Screenshot (168)](https://user-images.githubusercontent.com/91625966/185207171-b28a86a3-81c4-46a6-a399-39221bdf338a.png)
 ![Screenshot (169)](https://user-images.githubusercontent.com/91625966/185207184-6cb63adf-b326-41ce-9820-64d906a15b5e.png)
 
 
-#Forget Password
+# Forget Password
 ![Screenshot (150)](https://user-images.githubusercontent.com/91625966/185206507-d4e8332f-783f-410b-a028-fbc37f623347.png)
 ![Screenshot (152)](https://user-images.githubusercontent.com/91625966/185206571-720dd6a3-1c2d-40b4-9e10-a2dcb8a91787.png)
 
-#Give Vote Option
+# Give Vote Option
 ![Screenshot (184)](https://user-images.githubusercontent.com/91625966/185208450-3ae3d86a-cb4a-436b-b522-9163a9917348.png)
 ![Screenshot (182)](https://user-images.githubusercontent.com/91625966/185208497-2e7bf005-be94-4ec3-9717-d297e05c58fa.png)
 ![Screenshot (185)](https://user-images.githubusercontent.com/91625966/185208517-253076fd-63dd-4bbb-a600-6375f866658c.png)
 ![Screenshot (183)](https://user-images.githubusercontent.com/91625966/185208548-dc6bd484-8680-424c-afa7-70eaa5e40404.png)
 
 
-#View Votercard
+# View Votercard
 ![Screenshot (153)](https://user-images.githubusercontent.com/91625966/185206732-25d3776f-fc2f-4842-827f-b23f5a433608.png)
 ![Screenshot (154)](https://user-images.githubusercontent.com/91625966/185206740-2b34f233-3af3-4a8a-a29f-8d2b0544f4ea.png)
 
-#Download Voter Card
+# Download Voter Card
 ![Screenshot (156)](https://user-images.githubusercontent.com/91625966/185206807-d3d6d36e-13ff-4f9f-adbf-2517e2e5396c.png)
 
-#FeedBack
+# FeedBack
 ![Screenshot (172)](https://user-images.githubusercontent.com/91625966/185206948-22ab9c06-a175-4a09-9bd1-7620280cc526.png)
