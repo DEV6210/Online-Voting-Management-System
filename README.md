@@ -2,7 +2,7 @@
 
 ![Screenshot (103)](https://user-images.githubusercontent.com/91625966/185202602-115e14a5-44c2-47d3-a0aa-2e46160721d0.png)
 
-#Registration Form/Page/Window
+# Registration Form/Page/Window
 
 ![Screenshot (104)](https://user-images.githubusercontent.com/91625966/185202747-3f6d2a93-f17d-4912-9c09-097aaf26851b.png)
 
