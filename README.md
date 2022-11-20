@@ -1,7 +1,3 @@
-#If internet not available
-
-![Screenshot (27)](https://user-images.githubusercontent.com/91625966/202890828-88ec2b5d-3436-4b1e-9b63-697c8550dd76.png)
-
 # Online Voting Management System Dashboard
 
 ![Screenshot (103)](https://user-images.githubusercontent.com/91625966/185202602-115e14a5-44c2-47d3-a0aa-2e46160721d0.png)
@@ -10,6 +6,9 @@
 
 ![Screenshot (29)](https://user-images.githubusercontent.com/91625966/202890841-d0f3495c-6ce8-46b9-aad3-51f0bdd28e26.png)
 
+# If internet not available
+
+![Screenshot (27)](https://user-images.githubusercontent.com/91625966/202890828-88ec2b5d-3436-4b1e-9b63-697c8550dd76.png)
 
 # Registration Form/Page/Window
 
