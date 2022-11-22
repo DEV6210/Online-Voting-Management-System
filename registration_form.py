@@ -7,6 +7,7 @@ from sqlalchemy import null
 from tkinter import filedialog
 import sqlite3
 import random
+import os
 
 
 try:
@@ -53,6 +54,7 @@ g=IntVar()
 def cancel():
     regwin.destroy()
     import OnlineVotingManagementSystem
+   
 
 
 
@@ -146,7 +148,7 @@ def submit():
                     if null == length_of_phone:
                         messagebox.showerror('Worning','Please Enter Phone Number')
                     elif phone1.isdigit()==False:
-                        messagebox.showwarning('Worning','Please Enter only Phone digit')
+                        messagebox.showwarning('Worning','Please Enter only digit')
                     elif length_of_phone != 10:
                         messagebox.showwarning('Worning','Please Enter 10 digit Phone Number')
                     else:
@@ -157,7 +159,7 @@ def submit():
                         if null == alength_of_aadhaar:
                             messagebox.showerror('Worning','Please Enter aadhaar card number')
                         elif aadhaar1.isdigit()==False:
-                            messagebox.showwarning('Worning','Please Enter only Aadhaar digit')
+                            messagebox.showwarning('Worning','Please Enter only digit')
                         elif alength_of_aadhaar !=12:
                             messagebox.showwarning('Worning','Please Enter 12 digit Aadhaar Number')
                         else:
@@ -180,9 +182,9 @@ def submit():
                                     #pin..........................
                                     length_of_pin=len(pincode1)
                                     if null == length_of_pin:
-                                        messagebox.showerror('Worning','Please Enter pincode')
+                                        messagebox.showerror('Worning','Please Enter pin code')
                                     elif pincode1.isdigit()==False:
-                                        messagebox.showwarning('Worning','Please Enter only pin digit ')
+                                        messagebox.showwarning('Worning','Please Enter only number')
                                     else:
                                         # print(pincode1)
 
@@ -245,7 +247,7 @@ def submit():
                                                                         else:
                                                                             check=0
                                                                     if check == 1:
-                                                                        messagebox.showwarning('Exist User','Your Phone Number is Already Registered...')
+                                                                        messagebox.showwarning('Exist User','Your Phone Number Already Registered...')
                                                                     else:                                                                        
                                                                         result=messagebox.askyesno('Confirmation','Are You Sure All Details is Correct?')
                                                                         if result == True:
@@ -260,7 +262,7 @@ def submit():
                                                                                 messagebox.showinfo('Please Note Down Your Application No',notemessage)
 
                                                                                 regwin.destroy()
-                                                                                import OnlineVotingManagementSystem
+                                                                                import OnlineVotingManagementSystem as OnlineVotingManagementSystem
                                                                                 # data.execute("INSERT INTO Image Values(:image)", {'image': insert_photo })
                                                                                 #print('success')
                                                                                 # image_database.commit()
@@ -291,7 +293,7 @@ def submit():
                                                                         else:
                                                                             check=0
                                                                     if check == 1:
-                                                                        messagebox.showwarning('Exist User','Your Phone Number is Already Registered...')
+                                                                        messagebox.showwarning('Exist User','Your Phone Number Already Registered...')
                                                                     else:                                                                        
                                                                         result=messagebox.askyesno('Confirmation','Are You Sure All Details is Correct?')
                                                                         if result == True:
@@ -306,7 +308,7 @@ def submit():
                                                                                 messagebox.showinfo('Please Note Down Your Application No',notemessage)
 
                                                                                 regwin.destroy()
-                                                                                import OnlineVotingManagementSystem
+                                                                                import OnlineVotingManagementSystem as OnlineVotingManagementSystem
                                                                                 # data.execute("INSERT INTO Image Values(:image)", {'image': insert_photo })
                                                                                 #print('success')
                                                                                 # image_database.commit()
